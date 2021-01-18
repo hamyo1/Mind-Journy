@@ -1,4 +1,4 @@
 # Final-Project----Mind-Journy
 My final project in the software engineering program at Ariel University
-you can see the project run in youtube in the link below:
+You can see the project running in the video at the link below:
 https://youtu.be/02DqjDyYE6M
